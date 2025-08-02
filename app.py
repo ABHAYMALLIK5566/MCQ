@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 MCQ Generator - Web Application
-Deploy this online for non-tech users
 """
 
 import streamlit as st
